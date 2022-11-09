@@ -1,0 +1,3 @@
+- I’m Elizabeth Nemeti, I am currently working towards clinical machine learning applications through my Master's in Biomedical Informatics. 
+- My past experience lies in bioinformatics and genetics. 
+- My current research interests look at neuromodulation applications of machine learning and time series analysis for treatment of neurological disorders. 
