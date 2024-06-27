@@ -1,3 +1,3 @@
-- I’m Elizabeth Nemeti, I am currently working towards clinical machine learning applications through a doctoral program in Biomedical Informatics. 
+- I’m Elizabeth Nemeti, I am currently working towards clinical machine learning applications through a doctoral program in Biomedical Informatics at Emory. 
 - My past experience lies in bioinformatics and genetics. 
-- My current research interests look at generative modelling and neuromodulation applications for treatment of neurological disorders. 
+- My current research interests include medical imaging tasks, generative modelling and neuromodulation applications for treatment of neurological disorders. 
