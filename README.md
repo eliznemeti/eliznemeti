@@ -1,3 +1,3 @@
 - I’m Elizabeth Nemeti, I am currently working towards clinical machine learning applications for mental health through a doctoral program in Biomedical Informatics at Emory. 
 - My past experience lies in biology and bioinformatics for genetics. 
-- My current research interests include digital biomarkers and improving mental health outcomes.
+- My current research interests include digital voice biomarkers, EMA, and improving mental health outcomes.
